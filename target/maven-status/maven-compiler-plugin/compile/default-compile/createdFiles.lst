@@ -1,0 +1,10 @@
+com\productsmvc\model\Product.class
+com\productsmvc\config\WebAppConfig.class
+com\productsmvc\controllers\Productscontroller.class
+com\productsmvc\service\ProductServiceImpl.class
+com\productsmvc\config\HibernateConfiguration.class
+com\productsmvc\service\ProductService.class
+com\productsmvc\dao\ProductDAO.class
+com\productsmvc\config\ProductAppConfig.class
+com\productsmvc\dao\ProductDAOImpl.class
+com\productsmvc\controllers\TestController.class
